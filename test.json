@@ -1,0 +1,6 @@
+{
+  "modelId": "amazon.nova-pro-v1:0",
+  "contentType": "application/json",
+  "accept": "application/json",
+  "body": "{prompt: \"You are a helpful assistant. You will be given a question and you need to answer it. What is the capital of France?\"}"
+}

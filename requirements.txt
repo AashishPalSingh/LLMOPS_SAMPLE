@@ -1,0 +1,11 @@
+langchain
+langchainhub
+openai
+python-dotenv
+pandas
+bs4
+tiktoken
+langchain_community
+boto3==1.34.37
+chromadb
+awscli
